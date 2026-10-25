@@ -1,0 +1,41 @@
+{
+  "item": {
+    "id": "979821130309",
+    "restype": "watchface",
+    "name": "拼毯",
+    "description": "拼毯是一场把时间织进布面的实验：暖纸底上铺开七列八行共五十六块锈陶色方毯，颜色按行序循环，块与块之间留出六像素的缝，像经纬之间的呼吸。每个小时，第一块先亮，接着按分钟一块块铺满整幅毯面，到下个小时再归零重来；中央的纸色铭牌是一块熨平的补丁，三十像素的时间压在布上，像织物的标签。未亮的毯块褪成纸色的浅影，让走过的分钟有重量；五块锈陶色循环往复，像一条旧毯的经年褪色。我们想让读时变成触感：一分钟，多一块。",
+    "preview": [
+      "media/02-COUVERTURE拼毯-1440x2160.png",
+      "media/02-COUVERTURE拼毯-AOD-1440x2160.png",
+      "media/02-COUVERTURE拼毯-理念-1440x2160.png"
+    ],
+    "icon": "media/couverture-256.png",
+    "cover": "media/02-COUVERTURE拼毯-2160x1440.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "支持我",
+      "url": "https://imwjh.com/support-me/zh",
+      "icon": "heart"
+    },
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top",
+      "icon": "airplane-tilt"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/22-02-COUVERTURE拼毯-10-26-01-12.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
